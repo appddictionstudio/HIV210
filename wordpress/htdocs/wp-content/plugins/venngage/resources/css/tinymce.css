@@ -1,0 +1,6 @@
+.venngageEmbed {width: 100%; text-align: center; cursor: pointer; position: relative; background-color: #D8D8D8; max-width: 100%; padding: 2% !important; border: 3px dashed #989898 !important; /*opacity: 0.5*/}
+.venngageEmbed .content {width: 100%; max-width: 100%;}
+.venngageEmbed .content img {max-width: 250px; box-shadow: none !important;}
+.venngageEmbed .close {position: relative; float: right; opacity: 1; font-weight: bold; font-size: 15px; width: 20px; border: 1px dashed; padding: 1px; z-index: 99999; text-transform: uppercase;}
+.venngageOverlay {position: absolute; display: block; width: 100%; top: 0; left: 0; bottom: 0; right: 0; cursor: pointer; z-index: 99998}
+h3.venngage {font-size: smaller; font-weight: normal}

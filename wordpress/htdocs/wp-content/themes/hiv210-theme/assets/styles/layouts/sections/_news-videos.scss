@@ -1,0 +1,19 @@
+// News & Events Page - Videos Section
+#news-videos {
+  background-color: $theme-gray;
+
+  .text-underline::after {
+    border-color: white;
+  }
+
+  p a {
+    color: $theme-orange;
+
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: $theme-orange;
+    }
+  }
+}

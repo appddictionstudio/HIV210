@@ -1,0 +1,56 @@
+// Programs Section and Page
+#home-programs,
+#programs-page {
+  .parentTabs .nav-tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  #tab-2 .tabbable {
+    width: 100%;
+
+    .nav-pills {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+
+      .nav-item .nav-link.active {
+        background-color: $theme-blue;
+      }
+    }
+  }
+
+  .card {
+    padding: 1em;
+
+    img {
+      max-width: 200px;
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    .card-columns {
+      max-height: none;
+      column-count: 1;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .card-columns {
+      max-height: 2500px;
+      column-count: 2;
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    .card-columns {
+      max-height: 1800px;
+      column-count: 3;
+      text-align: center;
+    }
+  }
+
+}

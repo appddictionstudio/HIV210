@@ -1,0 +1,1041 @@
+2018-10-23 01:02:22,186 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:02:22,186 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:02:22,186 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:02:22,186 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:02:22,186 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:02:22,186 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:02:22,186 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:02:22,186 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:02:22,259 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:02:22,259 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:02:22,259 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:02:22,259 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:02:22,259 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:02:22,259 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:02:22,259 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:02:22,259 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:15:51,986 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:15:51,986 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:15:51,986 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:15:51,987 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:15:51,987 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:15:51,987 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:15:51,987 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:15:51,987 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:15:52,067 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:15:52,067 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:15:52,067 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:15:52,067 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:15:52,067 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:15:52,067 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:15:52,067 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:15:52,067 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:36:01,876 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:36:01,876 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:36:01,877 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:36:01,877 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:36:01,877 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:36:01,877 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:36:01,877 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:36:01,877 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:36:01,969 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:36:01,970 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:36:01,970 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:36:01,970 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:36:01,970 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:36:01,970 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:36:01,970 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:36:01,970 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 01:36:02,719 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 01:36:02,719 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 01:36:02,719 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 01:36:02,719 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 01:36:02,719 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 01:36:02,719 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 01:36:02,719 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 01:36:02,720 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:02:21,333 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:02:21,333 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:02:21,334 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:02:21,334 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:02:21,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:02:21,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:02:21,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:02:21,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:02:21,414 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:02:21,414 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:02:21,415 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:02:21,415 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:02:21,415 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:02:21,415 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:02:21,415 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:02:21,415 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:11:17,128 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:11:17,128 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:11:17,128 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:11:17,129 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:11:17,129 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:11:17,129 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:11:17,129 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:11:17,129 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:23:58,550 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:23:58,551 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:23:58,551 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:23:58,551 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:23:58,551 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:23:58,551 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:23:58,551 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:23:58,551 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:23:58,633 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:23:58,633 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:23:58,633 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:23:58,633 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:23:58,633 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:23:58,633 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:23:58,633 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:23:58,633 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:23:59,068 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:23:59,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:23:59,068 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:23:59,068 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:23:59,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:23:59,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:23:59,069 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:23:59,069 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:23:59,533 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:23:59,533 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:23:59,533 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:23:59,533 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:23:59,533 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:23:59,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:23:59,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:23:59,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:23:59,836 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:23:59,836 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:23:59,836 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:23:59,836 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:23:59,837 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:23:59,837 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:23:59,837 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:23:59,837 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:24:00,137 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:24:00,137 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:24:00,137 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:24:00,137 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:24:00,137 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:24:00,137 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:24:00,137 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:24:00,137 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:24:00,435 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:24:00,435 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:24:00,435 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:24:00,435 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:24:00,435 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:24:00,435 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:24:00,436 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:24:00,436 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 02:43:13,642 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 02:43:13,643 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 02:43:13,643 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 02:43:13,643 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 02:43:13,643 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 02:43:13,643 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 02:43:13,643 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 02:43:13,643 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 03:46:22,654 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 03:46:22,654 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 03:46:22,654 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 03:46:22,654 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 03:46:22,654 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 03:46:22,654 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 03:46:22,654 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 03:46:22,654 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 03:46:22,740 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 03:46:22,740 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 03:46:22,740 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 03:46:22,740 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 03:46:22,740 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 03:46:22,740 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 03:46:22,740 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 03:46:22,740 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 04:22:09,615 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 04:22:09,615 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 04:22:09,615 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 04:22:09,615 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 04:22:09,615 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 04:22:09,615 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 04:22:09,615 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 04:22:09,615 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 04:22:09,689 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 04:22:09,689 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 04:22:09,690 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 04:22:09,690 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 04:22:09,690 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 04:22:09,690 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 04:22:09,690 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 04:22:09,690 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 05:19:55,809 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 05:19:55,809 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 05:19:55,809 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 05:19:55,809 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 05:19:55,809 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 05:19:55,809 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 05:19:55,809 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 05:19:55,810 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 05:19:55,899 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 05:19:55,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 05:19:55,899 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 05:19:55,899 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 05:19:55,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 05:19:55,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 05:19:55,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 05:19:55,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 06:18:34,743 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 06:18:34,743 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 06:18:34,743 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 06:18:34,743 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 06:18:34,743 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 06:18:34,743 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 06:18:34,743 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 06:18:34,743 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 06:41:07,134 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 06:41:07,134 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 06:41:07,134 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 06:41:07,134 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 06:41:07,134 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 06:41:07,134 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 06:41:07,134 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 06:41:07,135 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:12:33,860 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:12:33,860 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:12:33,860 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:12:33,860 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:12:33,860 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:12:33,860 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:12:33,861 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:12:33,861 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:12:33,935 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:12:33,935 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:12:33,935 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:12:33,936 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:12:33,936 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:12:33,936 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:12:33,936 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:12:33,936 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:23:12,172 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:23:12,172 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:23:12,172 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:23:12,172 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:23:12,172 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:23:12,172 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:23:12,172 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:23:12,172 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:23:12,268 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:23:12,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:23:12,269 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:23:12,269 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:23:12,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:23:12,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:23:12,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:23:12,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:57:12,380 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:57:12,380 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:57:12,380 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:57:12,380 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:57:12,380 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:57:12,380 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:57:12,380 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:57:12,380 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 07:57:12,456 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 07:57:12,456 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 07:57:12,456 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 07:57:12,456 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 07:57:12,456 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 07:57:12,456 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 07:57:12,456 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 07:57:12,456 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 09:37:40,696 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 09:37:40,696 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 09:37:40,696 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 09:37:40,696 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 09:37:40,696 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 09:37:40,696 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 09:37:40,696 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 09:37:40,696 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 09:45:35,595 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 09:45:35,595 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 09:45:35,595 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 09:45:35,596 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 09:45:35,596 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 09:45:35,596 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 09:45:35,596 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 09:45:35,596 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 09:45:35,694 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 09:45:35,695 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 09:45:35,695 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 09:45:35,695 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 09:45:35,695 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 09:45:35,695 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 09:45:35,695 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 09:45:35,695 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 10:00:29,925 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 10:00:29,925 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 10:00:29,925 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 10:00:29,925 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 10:00:29,925 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 10:00:29,925 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 10:00:29,925 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 10:00:29,925 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 10:00:30,016 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 10:00:30,016 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 10:00:30,016 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 10:00:30,016 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 10:00:30,016 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 10:00:30,016 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 10:00:30,016 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 10:00:30,016 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 11:26:09,905 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 11:26:09,905 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 11:26:09,905 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 11:26:09,905 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 11:26:09,905 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 11:26:09,906 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 11:26:09,906 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 11:26:09,906 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 11:26:09,980 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 11:26:09,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 11:26:09,981 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 11:26:09,981 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 11:26:09,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 11:26:09,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 11:26:09,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 11:26:09,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 12:12:29,126 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 12:12:29,127 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 12:12:29,127 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 12:12:29,127 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 12:12:29,127 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 12:12:29,127 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 12:12:29,127 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 12:12:29,127 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 12:12:29,201 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 12:12:29,201 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 12:12:29,201 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 12:12:29,201 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 12:12:29,201 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 12:12:29,201 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 12:12:29,201 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 12:12:29,202 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 12:36:29,409 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 12:36:29,409 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 12:36:29,409 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 12:36:29,409 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 12:36:29,409 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 12:36:29,409 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 12:36:29,409 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 12:36:29,409 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 12:36:29,480 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 12:36:29,480 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 12:36:29,481 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 12:36:29,481 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 12:36:29,481 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 12:36:29,481 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 12:36:29,481 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 12:36:29,481 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 13:48:51,927 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 13:48:51,927 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 13:48:51,927 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 13:48:51,927 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 13:48:51,928 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 13:48:51,928 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 13:48:51,928 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 13:48:51,928 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 13:48:52,001 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 13:48:52,001 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 13:48:52,001 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 13:48:52,001 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 13:48:52,001 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 13:48:52,001 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 13:48:52,001 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 13:48:52,001 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 14:19:53,980 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 14:19:53,980 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 14:19:53,980 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 14:19:53,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 14:19:53,981 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 14:19:53,981 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 14:19:53,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 14:19:53,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 14:19:53,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 14:19:53,981 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 14:19:53,981 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 14:19:53,984 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 14:19:53,984 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 14:19:53,985 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 14:19:53,985 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 14:19:53,985 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 14:19:53,989 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 14:19:53,990 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 14:19:53,990 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 14:19:53,990 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 14:19:53,990 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 14:19:53,990 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 14:19:53,990 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 14:19:53,990 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 14:19:54,068 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 14:19:54,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 14:19:54,068 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 14:19:54,068 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 14:19:54,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 14:19:54,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 14:19:54,068 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 14:19:54,069 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 15:05:26,510 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 15:05:26,510 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 15:05:26,510 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 15:05:26,511 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 15:05:26,511 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 15:05:26,511 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 15:05:26,511 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 15:05:26,511 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:07:25,699 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:07:25,699 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:07:25,699 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:07:25,699 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:07:25,699 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:07:25,699 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:07:25,699 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:07:25,699 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:07:25,771 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:07:25,771 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:07:25,771 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:07:25,771 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:07:25,771 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:07:25,771 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:07:25,771 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:07:25,771 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:00,463 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:00,463 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:00,463 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:00,463 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:00,463 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:00,463 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:00,463 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:00,463 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:00,534 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:00,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:00,534 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:00,534 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:00,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:00,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:00,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:00,534 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:00,934 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:00,934 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:00,934 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:00,934 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:00,934 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:00,934 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:00,934 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:00,934 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:01,144 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:01,144 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:01,144 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:01,144 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:01,144 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:01,144 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:01,144 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:01,145 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:02,722 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:02,722 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:02,722 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:02,722 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:02,722 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:02,722 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:02,722 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:02,722 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:23,753 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:23,753 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:23,753 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:23,753 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:23,753 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:23,753 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:23,753 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:23,753 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:24,164 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:24,164 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:24,164 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:24,164 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:24,164 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:24,164 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:24,164 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:24,164 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:24:25,326 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:24:25,326 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:24:25,326 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:24:25,327 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:24:25,327 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:24:25,327 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:24:25,327 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:24:25,327 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:26:48,297 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:26:48,298 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:26:48,298 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:26:48,298 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:26:48,298 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:26:48,298 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:26:48,298 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:26:48,298 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:26:48,552 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:26:48,553 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:26:48,553 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:26:48,553 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:26:48,553 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:26:48,553 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:26:48,553 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:26:48,553 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:26:49,492 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:26:49,492 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:26:49,492 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:26:49,492 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:26:49,492 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:26:49,492 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:26:49,492 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:26:49,492 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:04,559 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:04,559 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:04,559 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:04,559 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:04,559 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:04,560 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:04,560 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:04,560 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:11,848 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:11,848 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:11,848 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:11,848 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:11,848 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:11,848 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:11,848 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:11,848 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:12,158 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:12,158 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:12,158 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:12,158 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:12,158 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:12,158 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:12,158 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:12,158 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:42,936 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:42,936 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:42,936 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:42,936 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:42,937 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:42,937 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:42,937 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:42,937 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:43,142 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:43,142 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:43,142 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:43,142 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:43,142 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:43,142 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:43,142 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:43,142 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:43,329 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:43,329 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:43,329 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:43,329 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:43,329 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:43,330 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:43,330 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:43,330 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:44,267 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:44,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:44,267 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:44,267 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:44,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:44,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:44,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:44,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:27:44,600 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:27:44,600 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:27:44,600 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:27:44,600 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:27:44,600 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:27:44,600 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:27:44,600 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:27:44,600 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:05,333 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:05,333 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:05,333 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:05,333 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:05,333 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:05,333 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:05,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:05,334 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:05,601 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:05,601 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:05,601 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:05,601 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:05,601 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:05,601 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:05,601 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:05,601 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:06,477 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:06,477 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:06,477 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:06,477 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:06,477 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:06,477 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:06,477 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:06,478 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:06,592 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:06,592 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:06,592 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:06,592 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:06,592 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:06,592 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:06,592 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:06,592 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:26,996 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:26,996 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:26,997 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:26,997 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:26,997 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:26,997 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:26,997 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:26,997 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:28:27,256 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:28:27,256 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:28:27,256 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:28:27,256 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:28:27,256 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:28:27,256 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:28:27,256 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:28:27,256 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:31:48,375 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:31:48,375 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:31:48,375 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:31:48,375 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:31:48,375 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:31:48,375 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:31:48,375 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:31:48,375 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:31:48,447 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:31:48,447 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:31:48,447 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:31:48,447 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:31:48,447 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:31:48,447 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:31:48,447 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:31:48,447 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:31:48,763 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:31:48,763 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:31:48,763 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:31:48,763 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:31:48,763 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:31:48,763 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:31:48,763 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:31:48,763 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:31:50,153 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:31:50,153 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:31:50,153 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:31:50,153 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:31:50,153 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:31:50,153 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:31:50,153 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:31:50,153 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:33:28,829 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:33:28,829 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:33:28,829 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:33:28,829 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:33:28,829 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:33:28,829 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:33:28,829 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:33:28,829 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:33:29,162 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:33:29,162 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:33:29,162 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:33:29,162 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:33:29,162 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:33:29,162 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:33:29,162 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:33:29,162 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:34:08,408 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:34:08,408 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:34:08,408 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:34:08,408 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:34:08,408 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:34:08,408 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:34:08,408 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:34:08,408 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:34:08,612 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:34:08,612 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:34:08,612 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:34:08,612 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:34:08,612 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:34:08,612 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:34:08,612 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:34:08,612 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:34:08,803 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:34:08,803 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:34:08,803 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:34:08,803 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:34:08,803 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:34:08,803 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:34:08,803 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:34:08,803 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:34:09,262 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:34:09,262 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:34:09,262 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:34:09,262 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:34:09,262 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:34:09,262 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:34:09,262 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:34:09,262 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:34:09,393 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:34:09,393 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:34:09,393 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:34:09,393 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:34:09,394 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:34:09,394 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:34:09,394 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:34:09,394 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:38:48,959 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:38:48,959 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:38:48,960 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:38:48,960 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:38:48,960 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:38:48,960 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:38:48,960 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:38:48,960 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:38:49,032 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:38:49,032 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:38:49,032 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:38:49,032 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:38:49,032 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:38:49,032 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:38:49,032 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:38:49,033 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:38:50,379 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:38:50,379 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:38:50,379 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:38:50,379 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:38:50,379 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:38:50,379 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:38:50,379 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:38:50,379 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:58:20,403 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:58:20,403 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:58:20,403 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:58:20,403 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:58:20,403 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:58:20,403 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:58:20,403 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:58:20,403 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 16:58:20,476 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 16:58:20,476 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 16:58:20,476 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 16:58:20,476 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 16:58:20,476 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 16:58:20,476 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 16:58:20,476 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 16:58:20,476 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:08:52,685 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:08:52,685 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:08:52,685 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:08:52,685 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:08:52,685 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:08:52,685 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:08:52,685 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:08:52,685 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:08:52,757 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:08:52,757 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:08:52,757 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:08:52,757 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:08:52,757 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:08:52,757 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:08:52,757 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:08:52,757 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:35:49,975 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:35:49,975 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:35:49,975 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:35:49,975 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:35:49,975 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:35:49,975 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:35:49,975 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:35:49,975 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:35:50,048 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:35:50,048 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:35:50,048 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:35:50,048 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:35:50,048 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:35:50,048 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:35:50,049 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:35:50,049 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:38:38,826 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:38:38,826 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:38:38,826 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:38:38,826 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:38:38,826 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:38:38,826 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:38:38,826 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:38:38,826 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:54:52,557 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:54:52,557 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:54:52,557 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:54:52,558 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:54:52,558 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:54:52,558 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:54:52,558 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:54:52,558 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 17:54:52,632 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 17:54:52,632 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 17:54:52,632 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 17:54:52,632 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 17:54:52,632 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 17:54:52,632 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 17:54:52,632 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 17:54:52,632 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:00:11,754 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:00:11,754 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:00:11,754 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:00:11,754 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:00:11,754 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:00:11,754 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:00:11,754 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:00:11,755 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:00:12,029 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:00:12,030 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:00:12,030 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:00:12,030 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:00:12,030 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:00:12,030 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:00:12,030 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:00:12,030 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:00:13,203 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:00:13,203 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:00:13,203 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:00:13,203 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:00:13,203 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:00:13,203 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:00:13,203 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:00:13,203 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:00:13,290 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:00:13,290 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:00:13,290 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:00:13,290 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:00:13,290 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:00:13,290 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:00:13,290 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:00:13,291 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:02:06,086 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:02:06,086 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:02:06,086 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:02:06,086 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:02:06,086 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:02:06,086 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:02:06,086 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:02:06,086 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:02:06,159 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:02:06,159 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:02:06,159 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:02:06,159 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:02:06,159 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:02:06,159 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:02:06,159 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:02:06,159 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:02:20,569 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:02:20,569 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:02:20,570 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:02:20,570 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:02:20,570 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:02:20,570 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:02:20,570 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:02:20,570 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:02:20,768 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:02:20,768 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:02:20,768 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:02:20,768 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:02:20,768 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:02:20,768 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:02:20,768 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:02:20,768 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:02:21,410 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:02:21,411 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:02:21,411 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:02:21,411 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:02:21,411 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:02:21,411 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:02:21,411 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:02:21,411 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:18:14,854 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:18:14,854 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:18:14,854 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:18:14,854 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:18:14,854 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:18:14,854 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:18:14,854 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:18:14,854 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:18:14,926 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:18:14,926 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:18:14,926 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:18:14,926 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:18:14,926 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:18:14,926 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:18:14,927 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:18:14,927 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:18:15,266 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:18:15,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:18:15,267 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:18:15,267 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:18:15,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:18:15,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:18:15,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:18:15,267 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:18:16,760 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:18:16,760 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:18:16,761 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:18:16,761 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:18:16,761 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:18:16,761 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:18:16,761 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:18:16,761 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:18:16,899 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:18:16,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:18:16,899 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:18:16,899 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:18:16,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:18:16,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:18:16,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:18:16,899 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:24:06,388 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:24:06,388 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:24:06,388 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:24:06,388 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:24:06,388 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:24:06,388 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:24:06,388 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:24:06,389 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:24:06,660 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:24:06,660 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:24:06,660 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:24:06,660 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:24:06,660 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:24:06,661 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:24:06,661 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:24:06,661 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:24:07,863 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:24:07,863 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:24:07,863 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:24:07,863 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:24:07,864 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:24:07,864 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:24:07,864 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:24:07,864 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:24:07,909 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:24:07,909 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:24:07,909 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:24:07,909 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:24:07,909 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:24:07,909 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:24:07,909 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:24:07,909 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:53:13,193 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:53:13,193 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:53:13,193 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:53:13,193 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:53:13,193 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:53:13,193 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:53:13,193 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:53:13,193 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:53:13,268 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:53:13,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:53:13,269 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:53:13,269 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:53:13,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:53:13,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:53:13,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:53:13,269 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:53:13,613 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:53:13,613 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:53:13,613 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:53:13,613 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:53:13,614 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:53:13,614 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:53:13,614 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:53:13,614 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:53:14,738 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:53:14,738 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:53:14,738 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:53:14,738 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:53:14,738 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:53:14,738 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:53:14,738 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:53:14,739 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 18:53:14,821 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 18:53:14,821 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 18:53:14,821 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 18:53:14,821 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 18:53:14,821 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 18:53:14,821 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 18:53:14,821 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 18:53:14,821 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 19:03:13,640 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 19:03:13,640 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 19:03:13,640 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 19:03:13,640 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 19:03:13,641 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 19:03:13,641 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 19:03:13,641 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 19:03:13,641 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 20:16:42,424 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 20:16:42,424 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 20:16:42,424 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 20:16:42,424 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 20:16:42,424 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 20:16:42,424 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 20:16:42,424 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 20:16:42,424 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 20:16:42,497 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 20:16:42,497 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 20:16:42,497 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 20:16:42,497 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 20:16:42,497 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 20:16:42,497 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 20:16:42,497 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 20:16:42,497 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 21:49:45,493 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 21:49:45,493 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 21:49:45,493 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 21:49:45,493 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 21:49:45,493 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 21:49:45,493 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 21:49:45,493 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 21:49:45,493 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 21:49:45,565 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 21:49:45,565 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 21:49:45,566 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 21:49:45,566 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 21:49:45,566 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 21:49:45,566 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 21:49:45,566 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 21:49:45,566 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 22:10:53,458 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 22:10:53,458 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 22:10:53,458 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 22:10:53,459 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 22:10:53,459 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 22:10:53,459 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 22:10:53,459 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 22:10:53,459 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-10-23 22:10:53,531 MAXICHARTSAPI DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-10-23 22:10:53,531 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-10-23 22:10:53,531 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-10-23 22:10:53,531 maxicharts_log4php ERROR /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-10-23 22:10:53,532 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-10-23 22:10:53,532 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-10-23 22:10:53,532 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-10-23 22:10:53,532 maxicharts_log4php DEBUG /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 

@@ -1,0 +1,165 @@
+/*
+ Theme Name:   HIV210 Theme Child
+ Theme URI:    https://healthcollaborative.net
+ Description:  HIV210 Theme Child Theme
+ Author:       Appddiction Studio
+ Author URI:   http://example.com
+ Template:     hiv210-theme
+ Version:      1.0.0
+ License:      MIT License
+ License URI:  http://opensource.org/licenses/MIT
+ Text Domain:  hiv210-child
+*/
+
+
+
+
+.slide_models h5{
+     background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+     text-align: left;
+     text-transform: uppercase;
+     float: left;
+}
+.slide_models p{
+    clear: both;
+}
+.slide_models h2{
+    background: #EC2D50;
+     color: #fff;
+     padding: 20px;
+}
+.slide_models h3{
+    background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+}
+.model_table, .model_table td{ border: none; }
+.model_table tr td:nth-child(1){ /*width: 80%;*/}
+.model_text {   }
+.model_btn{ 
+     
+    background: #ec2d50 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    float: right;
+    margin-top: 15px;
+    min-width: 150px;
+    padding: 5px 15px;
+    text-align: center;
+}
+.owl-stage .owl-item:nth-child(6) img, .owl-stage .owl-item:nth-child(7) img{
+    max-width: 900px;
+}
+.owl-stage .owl-item:nth-child(8) img{
+    max-width: 700px;
+}
+.text_ctr { text-align: center; }
+
+.sa_hover_container h5{
+     background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+     text-align: left;
+     text-transform: uppercase;
+     float: left;
+     width: 75%;
+}
+.sa_hover_container p{
+    clear: both;
+}
+.sa_hover_container h2{
+    background: #EC2D50;
+     color: #fff;
+     padding: 20px;
+}
+.sa_hover_container h3{
+    background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+}
+.sa_hover_container p{
+    color: #1a1a1a;
+    font-family: Merriweather,Georgia,serif;
+    font-size: 1rem;
+    line-height: 1.75;
+}
+.model_table{ margin-top: 15px; width: 100%; }
+.model_table, .model_table td, .model_table th { border: none; }
+.model_table tr td:nth-child(1){ /*width: 80%;*/}
+.model_text {   }
+.model_btn {
+    background: #EC2D50 !important;
+    color: #fff; 
+    text-align: center; 
+}
+p{
+    clear:all;
+}
+table.square-table, .square-table td, .square-table th{
+    border: none;
+    vertical-align: top;
+}
+.square-table h4 {
+    background: #EC2D50;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: normal;  
+}
+.square-table p {
+    font-size: 13px;
+    width: 76%;
+    padding-left: 20px;
+}
+.entry-content .rightul {
+    width: 80%;
+    float: right;
+}
+.img-w600{
+    width: 100%;
+    max-width:600px;
+}
+.slide_models ul, .square-table { clear:both; }
+.drop-div{ border: #ccc dashed 1px; min-width: 100px; min-height: 40px; display: inline-block; }
+.dg { background: #EC3C5A; text-align:center; min-width:100px; color: #fff; padding: 5px 20px; cursor: context-menu; border: 1px solid #fff; min-height: 38px; }
+.drop-div .dg { float: left;  } 
+#slider_10 .model_table tr td:nth-child(2){ width:115px; padding-left: 15px;}
+.mod5_table tr td:nth-child(1) {
+    width: 70%;
+}
+.mod5_table tr td:nth-child(2), .mod5_table tr td:nth-child(3) {
+    width: 15%; 
+    text-align: center;
+}
+.mod5_table tr th{
+    background: #EC3C5A;
+    color: #fff;
+}
+.mod5_table tr th , .mod5_table tr td  { 
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}
+.mod5_table .drop-div .dg{ width: 100%; }
+.drag-ans.mod5{ width: 100%; }
+.mod5 .dg{ float: left; }
+.mod5_table{ clear: both; margin-top: 20px; float: left; width: 100%;}
+#slider_23 .drop-div, #slider_48 .drop-div {
+    height: 40px;
+    margin-bottom: -7px;
+}
+#slider_23  tr td,  #slider_48  tr td {  padding: 5px; }
+#slider_23  .model_table td{ display: inline-block; }
+#slider_27  .model_table tr td:nth-child(2){ width:115px; padding-left: 15px;}
+#slider_39 .drag-ans .dg{ float: left; margin: 5px;}
+#slider_27 table{ width: 100%;}
+.alignnone.size-full.wp-image-28{ max-width: 800px;}
+
+.slide_models {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}

@@ -1,0 +1,54 @@
+/*
+ Theme Name:   HIV210 Theme Child
+ Theme URI:    https://healthcollaborative.net
+ Description:  HIV210 Theme Child Theme
+ Author:       Appddiction Studio
+ Author URI:   http://example.com
+ Template:     hiv210-theme
+ Version:      1.0.0
+ License:      MIT License
+ License URI:  http://opensource.org/licenses/MIT
+ Text Domain:  hiv210-child
+*/
+
+
+
+
+.slide_models h5{
+     background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+     text-align: left;
+     text-transform: uppercase;
+     float: left;
+}
+.slide_models p{
+    clear: both;
+}
+.slide_models h2{
+    background: #EC2D50;
+     color: #fff;
+     padding: 20px;
+}
+.slide_models h3{
+    background: #EC2D50;
+     color: #fff;
+     padding: 10px;
+}
+.model_table, .model_table td{ border: none;}
+.model_table tr td:nth-child(1){ width: 80%;}
+.model_text {   }
+.model_btn{ 
+    background: #EC2D50 !important;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
+.owl-stage .owl-item:nth-child(6) img, .owl-stage .owl-item:nth-child(7) img{
+    max-width: 900px;
+}
+.owl-stage .owl-item:nth-child(8) img{
+    max-width: 700px;
+}
+.text_ctr { text-align: center; }

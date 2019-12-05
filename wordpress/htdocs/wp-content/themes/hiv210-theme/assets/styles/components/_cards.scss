@@ -1,0 +1,18 @@
+// Fix Column Overflow Issue
+.card-columns {
+  @include media-breakpoint-down(md) {
+    column-count: 2;
+  }
+
+  @include media-breakpoint-down(xs) {
+    column-count: 1;
+
+    .card {
+      display: block !important;
+    }
+  }
+
+  .card {
+    display: inline-block;
+  }
+}

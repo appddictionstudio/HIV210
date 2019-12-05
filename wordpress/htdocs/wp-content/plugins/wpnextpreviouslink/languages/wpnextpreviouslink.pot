@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 05:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-wpnextpreviouslink-admin.php:190
+msgid "CBX Next Previous Setting"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:190
+msgid "CBX Next Previous"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:211
+msgid "Classic"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:212
+msgid "Blue"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:213
+msgid "Dark"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:214
+msgid "Green"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:215
+msgid "Orange"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:216
+msgid "Red"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:244
+msgid "Plugin Options"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:295
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:329
+msgid "Previous"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:330
+msgid "Next"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:357
+msgid "Vertical Position"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:358
+msgid "Vertical position of arrow or thumb"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:366
+msgid "Vertical Position Type"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:367
+msgid "Vertical position type px or %"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:375
+msgid "Show in Home page"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:376
+msgid "Show in home page or not. Default \"Yes\""
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:379
+#: admin/class-wpnextpreviouslink-admin.php:388
+#: admin/class-wpnextpreviouslink-admin.php:397
+#: admin/class-wpnextpreviouslink-admin.php:406
+#: admin/class-wpnextpreviouslink-admin.php:415
+#: admin/class-wpnextpreviouslink-admin.php:424
+#: admin/class-wpnextpreviouslink-admin.php:433
+#: admin/class-wpnextpreviouslink-admin.php:458
+#: admin/class-wpnextpreviouslink-admin.php:466
+msgid "No"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:379
+#: admin/class-wpnextpreviouslink-admin.php:388
+#: admin/class-wpnextpreviouslink-admin.php:397
+#: admin/class-wpnextpreviouslink-admin.php:406
+#: admin/class-wpnextpreviouslink-admin.php:415
+#: admin/class-wpnextpreviouslink-admin.php:424
+#: admin/class-wpnextpreviouslink-admin.php:433
+#: admin/class-wpnextpreviouslink-admin.php:458
+#: admin/class-wpnextpreviouslink-admin.php:466
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:384
+msgid "Show in Archive View (Category, Tag, Author, Date)"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:385
+msgid "Show in Archive View or not. Default \"Yes\""
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:393
+msgid "Show in Category View"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:394
+msgid "Show in Category View or not. Default \"Yes\"."
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:402
+msgid "Show in Tag View"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:403
+msgid "Show in Tag View or not. Default \"Yes\""
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:411
+msgid "Show in Author View"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:412
+msgid "Show in Author View or not. Default \"Yes\""
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:420
+msgid "Show in Date View"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:421
+msgid "Show in Date View or not. Default \"Yes\""
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:429
+msgid "Navigate by Category"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:430
+msgid ""
+"Navigate by Category or not. Default \"No\". This feature works for only "
+"regular \"post\" type or \"category\" taxonomy."
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:438
+#: admin/class-wpnextpreviouslink-admin.php:439
+msgid "Post Type Selection"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:446
+msgid "Show Post"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:447
+msgid "Show which post to be appeared"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:454
+msgid "Show Both in Archive for Arrow"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:455
+msgid "Show both left and right for any archive mode for arrow style"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:462
+msgid "Show Both in Single for Arrow"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:463
+msgid "Show both left and right for any details mode for arrow style"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:470
+msgid "Image Type"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:471
+msgid "Type of the image"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:479
+msgid "Arrow Style"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:480
+msgid "Arrow style of the next prev link."
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:489
+msgid "Arrow Preview"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:491
+msgid "Prev Preview Image(Width: 32px, Height: 60px)"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:492
+msgid "Next Preview Image(Width: 32px, Height: 60px)"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:527
+msgid "Pro Addon"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:528
+msgid "Visit Premium Customer Support Forum"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:528
+msgid "Premium Support"
+msgstr ""
+
+#: admin/class-wpnextpreviouslink-admin.php:547
+msgid "Settings"
+msgstr ""
+
+#: public/class-wpnextpreviouslink-public.php:172
+msgid "<span id=\"wpnp_previous\">&rarr;</span>"
+msgstr ""
+
+#: public/class-wpnextpreviouslink-public.php:173
+msgid "<span id=\"wpnp_next\">&larr;</span>"
+msgstr ""
+
+#: admin/partials/admin-settings-display.php:18
+msgid "CBX Next Previous Link/Article Options"
+msgstr ""
+
+#: admin/partials/sidebar.php:9
+msgid "Plugin Information"
+msgstr ""
+
+#: admin/partials/sidebar.php:22
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/partials/sidebar.php:30
+msgid "Codeboxr Updates"
+msgstr ""
+
+#: admin/partials/sidebar.php:57
+msgid "Other Wordpress Plugins"
+msgstr ""
+
+#: admin/partials/sidebar.php:88
+msgid "Codeboxr on facebook"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Next Previous Article"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress Next Previous Article/Link"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/show-next-previous-article-for-wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""

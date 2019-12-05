@@ -1,0 +1,13 @@
+
+.um {
+	margin-left: auto!important;
+	margin-right: auto!important;
+}
+.um .um-profile-photo a.um-profile-photo-img,
+.um .um-profile-photo img,
+.um .um-profile-photo span.um-profile-photo-overlay
+{
+    -moz-border-radius: 999px !important;
+    -webkit-border-radius: 999px !important;
+    border-radius: 999px !important
+}

@@ -1,0 +1,8 @@
+// News & Events Page - Articles Section
+#news-articles {
+  background-color: $theme-blue;
+
+  .text-underline::after {
+    border-color: white;
+  }
+}

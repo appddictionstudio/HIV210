@@ -1,0 +1,47 @@
+// Button Styles
+.btn {
+  background-color: $theme-blue;
+  border-radius: 0;
+  color: white;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    color: white;
+  }
+
+  @include media-breakpoint-down(md) {
+    margin: 10px 0;
+  }
+}
+
+.btn-xl {
+  padding: 1rem 1.5rem;
+  min-width: 200px;
+}
+
+// Button Colors
+.btn-white {
+  background-color: white;
+  color: $theme-blue;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    color: $theme-blue;
+  }
+}
+
+.btn-orange {
+  background-color: $theme-orange;
+  color: white;
+}
+
+// Button Outlines
+.btn-outline-white {
+  background-color: $theme-blue;
+  color: white;
+  border: 2px solid white;
+}

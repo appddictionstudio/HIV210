@@ -1,0 +1,26 @@
+// Footer
+footer.content-info {
+  background-color: $theme-orange;
+  padding: 50px 20px;
+
+  .social-icons li a {
+    font-size: 1.5rem;
+  }
+
+  address {
+    margin: 25px 0;
+  }
+
+  .nav-inline:not(.social-icons) {
+    margin-bottom: 25px;
+
+    li {
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        border-bottom: 2px solid $theme-blue;
+      }
+    }
+  }
+}

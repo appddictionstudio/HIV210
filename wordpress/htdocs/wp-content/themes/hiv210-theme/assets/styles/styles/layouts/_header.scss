@@ -1,0 +1,96 @@
+// Navigation
+#mainNav {
+  //padding: 50px;
+  padding-bottom: 0;
+  background-color:#292D34;
+  color:white!important;
+
+  .container-fluid {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding:10px;
+
+    .navbar-header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+
+      .navbar-brand img {
+        width: 200px;
+      }
+    }
+
+    #navbar-collapse {
+      margin-left: auto;
+      height: auto;
+
+      .navbar-form {
+        float: right;
+        font-size:1em;
+
+        button[type="submit"] {
+          border: 0;
+          padding: 0;
+          background-color: transparent;
+          color: white;
+        }
+
+        input {
+          color: white;
+          border: none;
+          border-bottom: 2px solid $theme-blue;
+          border-radius: 0;
+          background-color:$theme-blue;
+        }
+      }
+
+      #menu-navbar {
+        clear: both;
+
+        li {
+          &:hover,
+          &:focus,
+          &:active,
+          &.active {
+            border-bottom: 2px solid $theme-orange;
+          }
+
+          a {
+            font-family: "Avenir Next LT Pro",sans-serif;
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: 100;
+            letter-spacing: 3px;
+            font-size: .8em;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Navigation (Collapsed)
+@include media-breakpoint-down(md) {
+  #mainNav .container-fluid {
+    display: block;
+
+    #navbar-collapse {
+      position: absolute;
+      top: 125px;
+      right: -50px;
+      width: 100vw;
+      padding: 1em 1.5em;
+      text-align: right;
+      background-color: white;
+    }
+
+    .navbar-nav {
+      display: block;
+      text-align: right;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+// About Page - About Staff Bios Section
+#about-staff-bios {
+  .row:not(:first-of-type) +
+  .row:not(:last-of-type) {
+    position: relative;
+    margin-bottom: 25px;
+
+    &::after {
+      position: absolute;
+      content: "";
+      bottom: -5px;
+      left: 8%;
+      width: 80%;
+      border-bottom: 1px solid $theme-gray;
+    }
+  }
+}

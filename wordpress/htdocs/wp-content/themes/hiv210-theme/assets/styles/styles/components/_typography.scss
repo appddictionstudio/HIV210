@@ -1,0 +1,77 @@
+// Default Typeface
+// Avenir Next LT Pro Regular
+@font-face {
+  font-family: 'Avenir Next LT Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('../fonts/Avenir Next LT Pro Regular'), url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+}
+
+// Avenir Next LT Pro Bold
+@font-face {
+  font-family: 'Avenir Next LT Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('../fonts/Avenir Next LT Pro Bold'), url('../fonts/AvenirNextLTPro-Bold.woff') format('woff');
+}
+
+// Avenir Next LT Pro Condensed
+@font-face {
+  font-family: 'Avenir Next LT Pro Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src: local('../fonts/Avenir Next LT Pro Condensed'), url('../fonts/AvenirNextLTPro-Cn.woff') format('woff');
+}
+
+// Default Resets
+h1 {
+  font-size: 2.25rem;
+  letter-spacing: -1.25px;
+  white-space: nowrap;
+
+  @include media-breakpoint-down(md) {
+    font-size: 2rem;
+    white-space: normal;
+  }
+}
+
+h3 {
+  font-size: 1.15rem;
+  letter-spacing: -1.25px;
+  white-space: nowrap;
+}
+
+// Text Classes
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-underline {
+  display: inline-block;
+  position: relative;
+  margin-bottom: 50px;
+
+  &::after {
+    position: absolute;
+    content: "";
+    bottom: -5px;
+    left: 10%;
+    width: 80%;
+    border-bottom: 2px solid black;
+  }
+}
+
+// Text Colors
+.text-color-white {
+  font-family: 'Avenir Next LT Pro Bold', sans-serif;
+  color: white;
+}
+
+.text-color-blue {
+  font-family: 'Avenir Next LT Pro Regular', sans-serif;
+  color: $theme-blue;
+}

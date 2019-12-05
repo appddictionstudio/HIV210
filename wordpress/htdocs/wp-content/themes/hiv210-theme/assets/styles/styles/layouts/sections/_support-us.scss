@@ -1,0 +1,19 @@
+// Funders Page  - Support Us Section
+#support-us {
+  background-color: $theme-blue;
+
+  .text-underline::after {
+    border-color: white;
+  }
+
+  p a {
+    color: $theme-orange;
+
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: $theme-orange;
+    }
+  }
+}
